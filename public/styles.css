@@ -31,3 +31,8 @@ h2, p {
     margin-right: auto;
     text-align: center;
 }
+
+.small {
+    height: 15%;
+    width: 10%;
+}
